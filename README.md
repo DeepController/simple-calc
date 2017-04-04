@@ -10,7 +10,8 @@ Or simply calc
 
 Expression should be of the form \"1+2\" or \"7\*5\"
 
-Number list and operation shouble be of the form \"1 2 3 avg\" or \"9 8 7 count\"Support operations: 
-	avg for average 
-	count for counting elements 
-	fact for factorial (fact only accept one positive integer less than 20)
+Number list and operation shouble be of the form \"1 2 3 avg\" or \"9 8 7 count\"  
+Support operations:  
+	**avg** for average   
+	**count** for counting elements   
+	**fact** for factorial (fact only accept one positive integer less than 20)
