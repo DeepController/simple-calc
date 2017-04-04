@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  calc.swift
 //  SimpleCalc
 //
 //  Created by William on 4/1/17.
